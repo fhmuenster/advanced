@@ -1,0 +1,11 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <variables></variables>
+  <block type="txtMotorDriveSpeed" id="Vqwr^@p}g[-].reO(RP4" x="23" y="29">
+    <field name="output_ports">M1</field>
+    <value name="speed">
+      <block type="math_number" id="wBL09N!sn#B1innH3#$A">
+        <field name="NUM">3</field>
+      </block>
+    </value>
+  </block>
+</xml>
